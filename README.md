@@ -7,7 +7,7 @@ A simple program that makes it possible to connect multiple computers via ssh on
 
 To assign an ip to a number or word, edit the config.ini file and add your word of chosse, then an equal sign and finally the ip you wish to connect.
 
----EXSAMPLE---
+---EXAMPLE---
   
   
   config.ini
