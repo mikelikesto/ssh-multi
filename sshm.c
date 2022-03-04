@@ -5,7 +5,7 @@
 int main () {
    char command[50];
 
-   strcpy( command, "python ssh-multi.py" );
+   strcpy( command, "python /home/$USER/ssh-multi.py" );
    system(command);
 
    return(0);
