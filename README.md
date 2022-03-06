@@ -10,7 +10,7 @@ To assign an ip to a number or word, edit the config.ini file and add your word 
 ---EXAMPLE---
   
   
-  config.ini
+  home/$USER/config.ini
 
 
   1 = 192.168.0.1
@@ -23,11 +23,11 @@ OR
 
 To install, type in the command 
 ------------------
-"git clone https://github.com/mikelikesto/ssh-multi" in your chosen folder. 
+    git clone https://github.com/mikelikesto/ssh-multi
 -----------------
 Then type in 
 -------------------
-"python ssh-multi"
+    bash ./install.sh
 -------------------
 
 
