@@ -23,9 +23,14 @@ OR
 
 To install, type in the command 
 ------------------
-    git clone https://github.com/mikelikesto/ssh-multi
+    git clone https://github.com/mikelikesto/ssh-multi && cd ssh-multi
 -----------------
 Then type in 
+-------------------
+     chmod +x install.sh
+-------------------
+
+lastly type
 -------------------
     bash ./install.sh
 -------------------
