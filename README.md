@@ -27,7 +27,7 @@ To install, type in the command
 -----------------
 Then type in 
 -------------------
-    cd ssh-multi && chmod +x install.sh
+chmod +x install.sh
 -------------------
 
 lastly type
